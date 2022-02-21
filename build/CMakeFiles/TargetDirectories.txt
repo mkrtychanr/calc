@@ -1,0 +1,4 @@
+/Users/mkrtychanr/Desktop/АДМ/build/CMakeFiles/Numbers.dir
+/Users/mkrtychanr/Desktop/АДМ/build/CMakeFiles/Main.dir
+/Users/mkrtychanr/Desktop/АДМ/build/CMakeFiles/edit_cache.dir
+/Users/mkrtychanr/Desktop/АДМ/build/CMakeFiles/rebuild_cache.dir
